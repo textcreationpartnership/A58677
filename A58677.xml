@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act for pole-money, May 29, 1693</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58677</idno>
+            <idno type="STC">Wing S1427</idno>
+            <idno type="STC">ESTC R41236</idno>
+            <idno type="EEBO-CITATION">31354605</idno>
+            <idno type="OCLC">ocm 31354605</idno>
+            <idno type="VID">110212</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58677)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110212)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1752:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act for pole-money, May 29, 1693</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Forbes],</publisher>
+                  <pubPlace>[Aberdeen :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and name of publisher from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in the Aberdeen City Charter Room, (Aberdeen, Scotland).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poll tax --  Law and legislation --  Scotland.</term>
+               <term>Taxation --  Scotland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act">
+            <pb facs="tcp:110212:1"/>
+            <pb facs="tcp:110212:1"/>
+            <head>ACT <hi>For Pole-Money,</hi> May 29. 1693.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE ESTATES OF PARLIAMENT</hi> taking to their Conſideration, that the Arrears due to the Coun<g ref="char:EOLhyphen"/>trey and Army, preceeding the firſt day of <hi>February</hi> one thouſand ſix hundred and ninety one, are not as yet payed, by the Fonds appointed in the former Seſ<g ref="char:EOLhyphen"/>ſion of this Parliament, And that it is moſt Iuſt, that the ſame be duely and truely payed. THERE<g ref="char:EOLhyphen"/>FORE, in Order to the ſaid payment, <hi>viz.</hi> That the foreſaid Arrears due to the Country, may be pay<g ref="char:EOLhyphen"/>ed in the firſt place; and then the Arrears due to the Forces, in ſuch manner, as that all Officers, Regiments and Troops, may be firſt brought up to an equal Foot, and thereafter Compleated: and that what remains thereof, may be diſpoſed of, as their MAIESTIES ſhall think fit, do freely and cheerfully offer the Pole-money following: And for making the ſame effectual, Their MAIESTIES, with Advice and Conſent of the ſaids Eſtates, STATUTE and ORDAIN, that all Perſons of whatſomever <hi>Age,</hi> Sex, or Quality, ſhall be ſubject and lyable, to the Pole of ſix ſhilling Scots <hi>per</hi> Head, except poor Perſons, who live upon Charity, and the Children under the Age of ſixteen years, and <hi>In familia</hi> of all theſe Perſons, whoſe Pole is one pound ten ſhilling Scots, or under the ſame. That, beſide the ſaid ſix ſhilling Scots impoſed upon all the Perſons that are not excepted, a Cotter having a Trade, ſhall pay ſix ſhil<g ref="char:EOLhyphen"/>ling Scots more, making in the whole, twelve ſhilling Scots for every ſuch Cotter. That all Servants, that receives more than ſix pound Scots of yearly Fee, in money, or otherways, ſhall pay the twentieth part of the ſaid Fee, including the ſix ſhilling. Scots of generall Pole, which is to be impoſed upon all Perſons that are not above excepted. That all Tennents pay in name of Pole to the King, a Merk, for each hundreth Merks of the Maſters valued Rent, effeiring to their reſpective Rents, including the fore<g ref="char:EOLhyphen"/>ſaid ſix ſhilling, of general Pole; and appoints the Maſter of the Ground, to Adjuſt the Proportions of the Pole-money amongſt the ſeverall Tennents, according to their reſpective Duties, payable by them in Money, or Victual, effeiring to his valued Rent. For which Pole, all Pole-money heretofore appointed to be payed by Tennents to their Maſters, is hereby expreſly diſcharged, and the Act or Acts thereanent reſcinded. That Tradſmen in<g ref="char:EOLhyphen"/>habiting within any Burgh, whether of Royalty, Regality, or Barony, whoſe free Stock and Means is above an hundred Merks, and does not ex<g ref="char:EOLhyphen"/>tend to five hundreth Merks, be ſubject to a Merk Scots, including the foreſaid ſix ſhilling of general Pole. That all Tradſmen living within any of the ſaids Burghs, whoſe free Stock and Means extends to five hundreth Merks ſhall be ſubject and lyable to one pound ten ſhilling, including the foreſaid ſix ſhilling of generall Pole. That all Merchants or Shop-keepers, and Tradſmen Inhabitants within any of the ſaid Burghs, whoſe free Stock and
+<pb facs="tcp:110212:2"/>Means is above five hundreth Merks, and does not extend to five thouſand Merks, ſhall be ſubject and lyable to two pound ten ſhilling of Pole-money, including <hi>ut ſupra.</hi> And that thoſe whoſe free Stock and Means is above five thouſand Merks and does not extend to ten thouſand Merks, ſhall be lyable in four pound, including <hi>ut ſupra.</hi> That all Merchants, Shop-keepers, Chap<g ref="char:EOLhyphen"/>men and Tradſmen Inhabitants within any of the ſaids Burghs, or elſe where, whoſe free Eſtate and Stock does extend to, or is above ten thou<g ref="char:EOLhyphen"/>ſand Merks in worth and value, ſhall be ſubject and lyable to ten pounds of Pole-money, including <hi>ut ſupra.</hi> That all Gentlemen ſo Holden and Repute, and owning themſelves to be ſuch, and who will not renounce any pretence they have to be ſuch, ſhall be ſubject and lyable in three pounds of Pole-money, if they be not otherwayes claſſed, and upon another conſideration made ſubject to a greater Pole, the ſaid three pounds always including the general Pole of ſix ſhilling, <hi>ut ſupra.</hi> That all Heretors above fifty pounds, and under two hundred pounds of valued Rent, be ſubject and lyable to four pound of Pole-money, including <hi>ut ſupra.</hi> That all Heretors above two hundred pounds Scots, and under five hundreth pound of valued Rent, be lyable to nine pound of Pole-money, including <hi>ut ſupra.</hi> That all He<g ref="char:EOLhyphen"/>retors of five hundred pounds of valued Rent, or above the ſame, and un<g ref="char:EOLhyphen"/>der one thouſand pounds of valued Rent be ſubject and lyable to twelve pound Scots of Pole money, including <hi>ut ſupra.</hi> That all Heretors of one thouſand pounds of <hi>valued Rent,</hi> or above the ſame, and all Knight Baro<g ref="char:EOLhyphen"/>nets, and Knights, be ſubject and lyable to twentyfour pounds of Pole-money, including <hi>ut ſupra.</hi> That all Lords pay fourty pounds of Pole-mo<g ref="char:EOLhyphen"/>ney including <hi>ut ſupra.</hi> That all Viſcounts pay fifty pounds of Pole-mo<g ref="char:EOLhyphen"/>ney, including <hi>ut ſupra.</hi> That all Earls pay ſixty pounds of Pole-money, including <hi>ut ſupra.</hi> That all Marqueſſes pay fourſcore pounds of Pole-mo<g ref="char:EOLhyphen"/>ney, including <hi>ut ſupra.</hi> That all Dukes pay one hundreth pounds, includ<g ref="char:EOLhyphen"/>ing <hi>ut ſupra.</hi> That the Sons of Noblemen pay according to their Rank, <hi>viz.</hi> All Dukes eldeſt Sons as Marqueſſes, and their younger Sons as Earls. All Marqueſſes eldeſt Sons as Earls, and their younger Sons as Viſcounts. All Earls eldeſt Sons as Viſcounts, and the younger Sons, ſhall be lyable in twenty four pounds of Pole. All Viſcounts and Lords Sons in twenty four pounds. And that all Noblemens Daughters unmarried, and <hi>foris-fa<g ref="char:EOLhyphen"/>miliat,</hi> ſhall be lyable in the third of the Pole of their eldeſt Brothers<g ref="char:punc">▪</g> That all Widows, whoſe Huſbands would have been lyable to one pound ten ſhilling of Pole money, or above, are to be ſubject and lyable to the third part of their Huſbands Pole, except Heireſſes, who ſhall be ſubject to the ſame Pole their Predeceſſor would have been. That all Gentlewomen never married, and <hi>foris-familiat,</hi> or provided, and in poſſeſſion of their Eſtate, ſhall be ſubject and lyable in the third part of their eldeſt Brothers Pole. That all Notars and Procurators before inſeriour Courts, and Meſ<g ref="char:EOLhyphen"/>ſengers at Arms, are to be ſubject and lyable to four pounds of Pole-mo<g ref="char:EOLhyphen"/>ney, including <hi>ut ſupra.</hi> Thall all Writters not to the Signet, Agents and Clerks of inferiour Courts, and Macets, ſhall pay ſix pounds of Pole-money, including <hi>ut ſupra.</hi> That all Writters to the Signet, Clerks of So<g ref="char:EOLhyphen"/>veraign Courts, all Advocats, Sheriffs and their Deputs, Commiſſars and their Deputs, and Doctors of Phyſick, ſhall pay twentyfour pounds of Pole-money,
+<pb facs="tcp:110212:2"/>including <hi>ut ſupra.</hi> That all Miniſters having Benefices, or Stipends, and Pariſh Kirks not planted, ſhall pay twelve pounds of Pole. That all Officers of the Army, ſhall be lyable in a days pay for their Pole. That all perſons who are to pay the ſaid reſpective Poles, though they be Poled in different Capacities, are only to pay once at the greateſt rate. And for the better ſtating, ordering and uplifting the ſaid Pole-money, Their MAIES<g ref="char:EOLhyphen"/>TIES, with conſent foreſaid, STATUTE and ORDAIN, that the Com<g ref="char:EOLhyphen"/>miſſioners of Aſſeſſment, or their <hi>Quorum,</hi> ſhall Meet and Conveen at the ordinar place of their Meeting, upon the ſecond <hi>Tueſday</hi> of <hi>Auguſt,</hi> one thou<g ref="char:EOLhyphen"/>ſand ſix hundreth and ninety four, and their ſhall divide the whole Commiſ<g ref="char:EOLhyphen"/>ſioners, whether preſent or abſent, into ſuch Diviſions as they ſhall think fit: appointing Pariſhes, one or more; for Commiſſioners one or more is they ſhall ſee convenient, to meet the laſt <hi>Tueſday</hi> of the ſaid month of <hi>Auguſt,</hi> at the reſpective places to be appointed, impowering the ſaids Com<g ref="char:EOLhyphen"/>miſſioners; to take up Rolls and Liſts, of all the poleable perſons within the reſpective Bounds appointed to them, containing the Names, Qualities and Degrees of the ſeveral perſons, and of the value of the Eſtates belonging to them, conform to the ſaid Act: and ordains the Magiſtrats of Burghs-Royal, to meet the third <hi>Tueſday</hi> of the ſaid month of <hi>Auguſt,</hi> and to take up Rolls and Liſts, of all the poleable perſons within their reſpective Burghs, containing their Names, Qualities and Degrees, and the value of their Eſtates, and which Commiſſioners and Magiſtrats of Burghs, are to give Intimation at the Kirk door, upon a <hi>Sunday</hi> upon three days Warning, at leaſt to the perſons to be polled, to Compear before them at the Parish-Kirk, to give up their Names, Qualities, Degrees and values of their Eſtate, to the Effect the reſ<g ref="char:EOLhyphen"/>pective Poles may be ſtated, and ſet down by the ſaid Commiſſioner or Commiſſioners of Aſſeſſment, or Magiſtrats of Burghs <hi>reſpective.</hi> And which Rolls, the ſaids Perſons are to give up, or ſend under their Hand if they can write: otherwayes if they cannot write their Name, Quality, De<g ref="char:EOLhyphen"/>gree and Eſtate, ſhall be marked by the Clerk, as they give it up, excepting ſennents, whoſe Names, and the Pole-money payable by them, ſhall be given up, or ſent by their Maſters under their Hands, with Certification, that ſuch as do not Compear, or ſend under their Hands their Names, Qua<g ref="char:EOLhyphen"/>lities, and value of their Eſtate, or do give up their Quality, Degree or va<g ref="char:EOLhyphen"/>lue of their Eſtate, otherways than it ſhould be, they ſhall be lyable in the quadruple of their Pole; the equal half whereof ſhall belong to the Infor<g ref="char:EOLhyphen"/>mer, who ſhall make the ſame appear. And which Liſts and Rolls being ſo made up within the reſpective Sub-diviſions, ſhall be Recorded and Booked in a Regiſter of the Shire, or Burgh, for that purpoſe: whereof there ſhall be an Abſtract ſent to the Lords of the Theſaury, betwixt and the firſt of <hi>October,</hi> one thouſand ſix hundred and ninety four, containing the number of the perſons in the ſeveral Claſſes and Ranks above ſpecified, with the ex<g ref="char:EOLhyphen"/>tent of their Pole. And their Majeſties, with Advice and Conſent of the ſaid Eſtates, do Ordain the foreſaid Pole-money to be payed at, or before the Term of <hi>Martinmaſs,</hi> one thouſand ſix hundred and ninety four: and Re<g ref="char:EOLhyphen"/>quires the Commiſſioners of Aſſeſſment, and Magiſtrats of Burghs, to cauſe Intimation to be made for the payment thereof, at the Kirk-doors of the ſeveral Pariſh-Kirks, upon the firſt <hi>Sunday</hi> of <hi>October,</hi> one thouſand ſix hun<g ref="char:EOLhyphen"/>dred
+<pb facs="tcp:110212:3"/>and ninety four: Certifying: ſuch as ſhall not make punctual payment at the ſaid Term of <hi>Martinmaſs</hi> one thouſand ſix hundred and ninety four, they ſhall be lyable in the quadruple of their Pole, and Ordains Execution to be uſed againſt them for the ſame, by poynding of their rea<g ref="char:EOLhyphen"/>dieſt Goods, or impriſoning their perſons. Likeas, Their Majeſties, with Advice and Conſent foreſaid, hereby impowers the Lords of Privy Coun<g ref="char:EOLhyphen"/>cill, to Order and Appoint ſuch further Methods and Courſes, as they ſhall judge fit, for Stating and In-bringing of the Pole-money aforeſaid; and to allow out of the ſaid Pole-money, ſuch Charges and Expenſes, as ſhall be neceſſary for Execution of this Act. And their Majeſties and Eſtates foreſaid, do hereby ſtrictly Appropriat, deſtine and appoints the Sums to be raiſed by this Act, for the ends and uſes above ſpecified, <hi>viz.</hi> for payment of the foreſaid Arrears due to the Countrey and the Army, in Manner and in the Order above mentioned, and the Remainder to be diſpoſed of by Their Majeſties. And hereby Prohibites and Diſcharges, the applying there<g ref="char:EOLhyphen"/>of to any other uſe whatſoever; Certifying ſuch, as ſhall either give Or<g ref="char:EOLhyphen"/>ders for miſapplying thereof, or Intromet with the ſame. The Miſapply<g ref="char:EOLhyphen"/>ers and Receivers thereof, ſhall be lyable, Conjunctly and Severally in the double thereof, at the Inſtance of any Party concerned, and their private Eſtates ſubject and lyable, for the double of that which ſhall be ſo miſap<g ref="char:EOLhyphen"/>plyed. And further, it is hereby Declared, that where the Arrears due to the Country by the Forces, ſhall be firſt duely ſtated, for any Burgh or Shire, conform to the Orders and Rules ſet down thereanent. The Burgh or Shire to whom the ſaid Arrears ſhall be found due, ſhall have Retention, and get a Diſcharge of their Pole-money, in ſatisfaction of their ſaids Arrears: and the Declaration of the ſaid Burgh or Shire, getting the ſaid Retention, ſhall be ſufficient for the Collectors Exoneration: and the Commiſſioners of Sup<g ref="char:EOLhyphen"/>ply, and Magiſtrats of the foreſaid Shires and Burghs reſpective, are here<g ref="char:EOLhyphen"/>by impowered, to diſtribute and proportion the ſaid Pole-money, Retained to the perſons there Inhabitants, conform to their Intereſt in the ſaid Ar<g ref="char:EOLhyphen"/>rears. And where the Arrears due to any Shire or Burghs exceeds the Pole-money, due by the ſaid Burgh or Shire; Then, and in that Caſe, the <hi>ſuperplus</hi> ſhall be ordered to be payed by the Lords of the Theſaury, out of the Pole due, and brought in from other places, with regard always to the total of theſe Arrears, and the total of the ſaid Pole.money; ſo that if the total of the Arrears ſhall exceed the total of the Pole, the foreſaid <hi>ſu<g ref="char:EOLhyphen"/>perplus</hi> ſhall only be payable, and payed proportionably: and the Lords of Privy Councill, are hereby fully impowered, to Decide and Determine fi<g ref="char:EOLhyphen"/>nally, all Queſtions and Difficulties hereby undetermined; that may ariſe anent the premiſſes. And laſtly, it is hereby declared, that no Perſons ly<g ref="char:EOLhyphen"/>able in payment of this Pole, ſhall be holden to produce their Diſcharges, or Receipts of the ſame, after the Term of <hi>Martinmaſs,</hi> one thouſand ſix hundreth and ninety ſeven years.</p>
+            <pb facs="tcp:110212:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
